@@ -1,0 +1,3 @@
+com\server\books\BooksApplicationTests.class
+com\server\books\integration\BookIntegrationtest.class
+com\server\books\services\BookServiceUnitTest.class
